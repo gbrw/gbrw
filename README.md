@@ -24,7 +24,7 @@ Currently focused on building desktop and mobile applications, with strong inter
 `C++` • `C#` • `Java` • `Python` • `SQL` • `MATLAB`
 
 **Frameworks & Tools**  
-`Windows Forms` • `Unity` • `Android Studio` • `Firebase` • `Git`
+`Visual Studio` • `Unity` • `Android Studio` • `Firebase` • `Git`
 
 **Databases**  
 `SQL Server` • `SQLite`
