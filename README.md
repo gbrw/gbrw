@@ -1,61 +1,64 @@
-<h1 align="center">Ghaith Alrawi</h1>
-<p align="center">
-  Final-Year Computer Science Student  <br>
-  University of Anbar &mdash; Class of 2026
-</p>
+# Ghaith Alrawi
+
+🎓 Computer Science Student  
+📍 University of Anbar — Class of 2026  
+📧 gaithalrawi99@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/g3t) | [GitHub](https://github.com/gbrw)
 
 ---
 
-## Profile Summary
+## 🧠 About Me
 
-I am a computer science undergraduate with solid academic training and hands-on experience in software development. My main areas of interest include desktop and mobile application development, database systems, and problem-solving through clean and scalable code.
+I'm a final-year computer science student with a passion for real-world problem solving and clean code architecture.  
+Currently focused on building desktop and mobile applications, with strong interest in system design and data-driven solutions.
 
-Currently, I am focused on final-year projects related to healthcare systems and looking forward to contributing to real-world software engineering environments through internships or junior developer roles.
+- 🧩 Interested in: Full-Stack Development · Mobile Apps · Databases  
+- 📚 Building: Healthcare & Utility Applications  
+- 🤝 Seeking: Internships & Entry-Level Software Engineering Roles
 
 ---
 
-## Technical Proficiencies
+## 🛠️ Tech Stack
 
 **Languages**  
-C++, C#, Java, Python, SQL, MATLAB
+`C++` • `C#` • `Java` • `Python` • `SQL` • `MATLAB`
 
 **Frameworks & Tools**  
-Windows Forms, Unity, Android Studio, Firebase, Cisco Packet Tracer
+`Windows Forms` • `Unity` • `Android Studio` • `Firebase` • `Git`
 
-**Database Technologies**  
-Microsoft SQL Server, SQLite
+**Databases**  
+`SQL Server` • `SQLite`
 
-**Additional Tools**  
-Microsoft Office Suite, Git, GitHub
-
----
-
-## Academic Projects
-
-**Blood Bank Management System**  
-A desktop application built with C# and Windows Forms for managing blood donor data, hospital requests, inventory tracking, and reporting. The system integrates with a relational database for real-time updates and administrative control.
-
-**Blood Bank Mobile Application**  
-Developed using Java and Android Studio, this mobile app connects blood donors with seekers via a simple and intuitive user interface. It includes donor registration, blood request submission, location mapping, and Firebase backend integration.
+**Networking & Productivity**  
+`Cisco Packet Tracer` • `Microsoft Office`
 
 ---
 
-## GitHub Statistics
+## 🚀 Featured Projects
+
+### 💉 Blood Bank Management System
+A C# Windows Forms application with SQL Server integration.  
+Manages donor data, blood requests, inventory control, and generates printable reports.
+
+### 📱 Blood Bank Android Application  
+Developed with Java & Firebase — allows users to register as donors, request blood, and locate nearby donors via map integration.
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gbrw&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrw&layout=compact&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gbrw&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrw&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 ---
 
-## Contact Information
+## 📬 Contact
 
-- **Email**: [gaithalrawi99@gmail.com](mailto:gaithalrawi99@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/g3t](https://www.linkedin.com/in/g3t)
+- 📧 Email: [gaithalrawi99@gmail.com](mailto:gaithalrawi99@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/g3t](https://www.linkedin.com/in/g3t)
 
 ---
 
-<p align="center">
-  Open to internships, freelance collaboration, and junior software engineering roles.
-</p>
+<sub align="center">Passionate about building. Always learning. Open to opportunity.</sub>
